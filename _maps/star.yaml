@@ -10,7 +10,7 @@ targetAmount: 999999
 baseSalary: 1000
 salaryIncrement: 1000
 maxDiceRoll: 8
-frbFile1: chugga
+frbFile1: star
 background: bg006
 mapIcon: p_bg_006
 tourMode:
