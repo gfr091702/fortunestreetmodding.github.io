@@ -40,14 +40,14 @@ shopNames:
     5: Stupidity
     6: Daisy's Heart-Shaped Box
     7: Emile's Puns
-    8: Waluigi's Bridal Boutique
+    8: Day at the Races
     9: Lord Donator's Lamp
     10: Paper Toad's House
     11: Jon's Game Collection
     12: Dokapon Kingdom
     13: Donkey Kong's Wing Shop
-    14: Luigi's Pit
-    15: Intermission
+    14: Luigi's 12 Kids
+    15: Intermission Wall
     16: Disc Only Mall
     17: RosaJon's Closet
     18: Captain Falcon's School
@@ -72,7 +72,7 @@ shopNames:
     37: Tim's Bathroom
     38: Emile's Innocence
     39: TRG Land
-    40: Day at the Races
+    40: Waluigi's Bridal Boutique
 ventureCards:
   - 1  #   1 Nice! You can choose which way to move on your next go, (player's name).
   - 1  #   2 You ate the Mushroom! Roll the die again and move forward.
