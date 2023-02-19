@@ -22,6 +22,23 @@ tourMode:
   clearRank: 1
 background: jungleadventure
 mapIcon: dksjungle
+music:
+  map: DKsJungleAdventure.60
+  stock: MP1_OptionHouse.50
+  ventureCards: MP1_MiniGame.60
+  auction: MP1_ChanceTime.55
+  targetMet: CrocodileCacophony.55
+  win: MP1_Ending.60
+  guestAppear: MP1_OJAMA_COME.60
+  guestLeave: MP1_OJAMA_BYE.60
+  badVentureCard: MP1_Miss.60
+  takeAbreak: MP1_Miss.60
+  promotionMii: MP1_WinMinigame4.60
+  promotionMario: MP1_WinMinigame4.60
+  promotionDragonQuest: MP1_WinMinigame4.60
+  forcedBuyout: MP1_WinMinigame3.60
+  domination: MP1_Monopoly.60
+  bankruptcy: MP1_WinMinigame5.60
 ventureCards:
   - 1  #   1 Adventurous turning point! You can choose which way to move on your next go, (player's name).
   - 1  #   2 Venture on! Roll the die again and move forward.
